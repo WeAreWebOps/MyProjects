@@ -1,0 +1,59 @@
+#about-him{
+    margin-left: 12px;
+}
+
+article {
+    h3 {
+        font-family: verdana;  
+        font-size: 133%;
+    }
+    font-family: arial;  
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    span {
+        font-size: medium;
+    }
+    border: 2px solid #efefef;
+    padding: 18px;
+    text-align: center;
+    
+}
+
+header h1 {
+    background-color: aliceblue;
+    border: 3px solid #efefef;
+    border-top: 0;
+    font-size: 330%;
+    margin-top: 0;
+    padding: 54px;
+    text-align: center;
+}
+
+#image {
+    float: left;
+    margin: auto 32px 7px;
+    width: 60%;
+
+    img {
+        border-radius: 1%;
+        width: 100%;
+        height: auto;
+    }
+}
+
+main {
+    margin-top: 42px;
+    padding: 23px;
+}
+
+.titles {
+    font-size: 105%;
+}
